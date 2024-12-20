@@ -1,2 +1,8 @@
-# disable-right-click
-How to disable right click on a website.
+
+## disable right-click on the website
+
+## To disable right-click use oncontextmenu event
+
+## oncontextmenu event occurs when the user right-clicks an HTML element to open the context menu
+
+## check the js file.
