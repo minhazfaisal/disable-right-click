@@ -6,3 +6,6 @@
 ## oncontextmenu event occurs when the user right-clicks an HTML element to open the context menu
 
 ## check the js file.
+
+live preview 
+https://minhazfaisal.github.io/disable-right-click/
